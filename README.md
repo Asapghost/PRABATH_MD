@@ -47,7 +47,7 @@
 ..........................................................
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
-
+https://dashboard.heroku.com/new?button-url=https://github.com/Asapghost/PRABATH_MD&template=https://github.com/Asapghost/PRABATH_MD.git
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
 ●.  ***Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)***
@@ -58,7 +58,7 @@
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NO4jvb?referralCode=iM43z3)
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Asapghost/PRABATH_MD&template=https://github.com/Asapghost/PRABATH_MD.git)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Asapghost/PRABATH_MD&template=https://github.com/prabathLK/PRABATH_MD)
 
   
 
